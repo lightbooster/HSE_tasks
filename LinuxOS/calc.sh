@@ -66,7 +66,7 @@ function interpret()
   return 9
  fi
  
- return 0
+ return 20
 }
 
 
@@ -86,19 +86,19 @@ function interpret_action()
   return 2
  fi
  
- if [ `grep "^[uyUY][mnMN][mnMN][oauyOAUY][zscZSC][yuiYUI][tdTD]\W*" action.txt` ]
+ if [ `grep "^[uyUY][mnMN][mnMN][oauyOAUY][zscZSC][yuiYUI][tdTD]*" action.txt` ]
  then
   rm action.txt
   return 3
  fi
  
  
- if [ `grep "^[dtpDTP][eiEI][lnmLNM][eiEI][tdTD]\W*" action.txt > result_znak.txt` ]
+ if [ `grep "^[dtpDTP][eiEI][lnmLNM][eiEI][tdTD]*" action.txt` ]
  then
   rm action.txt
   return 4
  fi
- return -1
+ return 20
 }
 
 while true
@@ -133,13 +133,13 @@ case $exp in
 esac
 # zakonchili interpretirovat'
 
-if [ "$exp" = "no_action" ]
+if [ "$exp" = "20" ]
 then
   echo "ERROR: NO SUCH ACTION"
   exit
 fi
 
-if [[ "$num1" == "-1" ]] && [[ "$num2" == "-1" ]]
+if [[ "$num1" == "20" ]] || [[ "$num2" == "20" ]]
 then
   echo "ERROR: NO SUCH NUMBER"
   exit
