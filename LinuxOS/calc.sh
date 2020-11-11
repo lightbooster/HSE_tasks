@@ -6,25 +6,25 @@ function interpret()
 {
  echo $1 > num.txt
  
- if [ `grep "^[nmNM][oauyOAUY][lL]*" num.txt` ]
+ if [ `grep "^[nmNM][oauOAU][lL]*" num.txt` ]
  then
   rm num.txt
   return 0
  fi
  
- if [ `grep "^[oaeiuOAEIU][dtrnDTRN].*" num.txt` ]
+ if [ `grep "^[oaeOAE][dtnDTN].*" num.txt` ]
  then
   rm num.txt
   return 1
  fi
  
- if [ `grep "^[dtprDTPR][vfhwVFHW]." num.txt` ]
+ if [ `grep "^[dtDT][vfhwVFHW]." num.txt` ]
  then
   rm num.txt
   return 2
  fi
  
- if [ `grep "^[tpdTDP][rlnRLN]." num.txt` ]
+ if [ `grep "^[tdTD][rlRL]." num.txt` ]
  then
   rm num.txt
   return 3
@@ -36,31 +36,31 @@ function interpret()
   return 4
  fi
  
- if [ `grep "^[pP][yaiYAI][tdnpTDNP]*" num.txt` ]
+ if [ `grep "^[pP][yaiYAI][tdTD]*" num.txt` ]
  then
   rm num.txt
   return 5
  fi
  
- if [ `grep "^[shcSHC][shcSHC][eiaEIA][sczSCZ]\W*" num.txt` ]
+ if [ `grep "^[shcSHC][shcSHC][eiaEIA][scSC]\W*" num.txt` ]
  then
   rm num.txt
   return 6
  fi
  
- if [ `grep "^[cszCSZ][eiaEIA][mnltMNLT]\W*" num.txt` ]
+ if [ `grep "^[csCS][eiaEIA][mnltMNL]\W*" num.txt` ]
  then
   rm num.txt
   return 7
  fi
  
- if [ `grep "^[vwfVWF][oauyOAUY][sczSCZ][eiaEIA]\W*" num.txt` ]
+ if [ `grep "^[vwfVWF][oaOA][sczSCZ][eiaEIA]\W*" num.txt` ]
  then
   rm num.txt
   return 8
  fi
  
- if [ `grep "^[dtpDTP][eiaEIA][vwfVWF][yiaYIA][tdpTDP]\W*" num.txt` ]
+ if [ `grep "^[dtDT][eiaEIA][vwfVWF][yiaYIA][tdTD]\W*" num.txt` ]
  then
   rm num.txt
   return 9
@@ -74,13 +74,13 @@ function interpret_action()
 {
  echo $1 > action.txt
  
- if [ `grep "^[ptdfPTDF][lnLN][uyaeUYAE][sczSCZ]" action.txt` ]
+ if [ `grep "^[ptPTDF][lnLN][uyaeUYAE][sczSCZ]" action.txt` ]
  then
   rm action.txt
   return 1
  fi
  
- if [ `grep "^[nmNM][ieuaIEUA][nmNM][uyaiIEUA][sczSCZ]" action.txt` ]
+ if [ `grep "^[nmNM][ieIE][nmNM][uyUY][sczSCZ]" action.txt` ]
  then
   rm action.txt
   return 2
@@ -128,8 +128,8 @@ case $exp in
   0) exp="no_action";;
   1) exp="+";;
   2) exp="-";;
-  3) exp="/";;
-  4) exp="*";;
+  3) exp="*";;
+  4) exp="/";;
 esac
 # zakonchili interpretirovat'
 
