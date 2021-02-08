@@ -216,9 +216,11 @@ public class Matrix implements Cloneable {
         Matrix matrix1 = null;
         try {
             matrix1 = matrix.clone();
-        } catch (Exception e){
-            System.out.println("Not clonable");
-        };
+        } catch (ArrayIndexOutOfBoundsException e){
+            System.out.println("Not cloneable object");
+        } catch (Exception e_super){
+            System.out.println("Some problems have been emerged: " + e_super.getMessage());
+        }
 
         System.out.println("Matrix + Matrix:");
         assert matrix1 != null;
@@ -235,6 +237,18 @@ public class Matrix implements Cloneable {
 
         System.out.println("T (Matrix):");
         matrix.transposed().printMatrix();
+
+        Matrix matrix2 = new Matrix(3, 3);
+        matrix2.setValue(new ComplexNumber(1), 0, 0);
+        matrix2.setValue(new ComplexNumber(2), 0, 1);
+        matrix2.setValue(new ComplexNumber(3), 1, 0);
+        matrix2.setValue(new ComplexNumber(4), 1, 1);
+        matrix2.setValue(new ComplexNumber(5), 2, 2);
+        System.out.println("Matrix2: ");
+        matrix2.printMatrix();
+
+        System.out.println("D (Matrix2):");
+        System.out.println(matrix2.getDeterminant().algebraicForm());
     }
 
 }
