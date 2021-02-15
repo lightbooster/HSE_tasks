@@ -205,7 +205,7 @@ public class Matrix implements Cloneable {
         }
     }
 
-    public static void main(String args[]){
+    public static void main(String args[]){    //этого метода в классе Matrix быть не должно
         Matrix matrix = new Matrix(2, 2);
         matrix.setValue(new ComplexNumber(1), 0, 0);
         matrix.setValue(new ComplexNumber(2), 0, 1);
