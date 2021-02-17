@@ -60,16 +60,5 @@ public class ComplexNumber{
         return "" + length + " cos(" + angle + ") + " + length + " i*sin(" + angle + ")";
 
     }
-
-    public static void main(String args[]){
-        ComplexNumber z1 = new ComplexNumber(5, -6);
-        ComplexNumber z2 = new ComplexNumber(-3, 2);
-        ComplexNumber z3;
-        z3 = z1.add(z2);
-        System.out.println("ADD: " + z3.trigonometricForm());
-        z3 = z2.mult(z1);
-        System.out.println("MULT: " + z3.algebraicForm());
-        z3 = z2.div(z1);
-        System.out.println("DIV: " + z3.algebraicForm());
-    }
+    
 }
