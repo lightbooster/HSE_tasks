@@ -5,4 +5,4 @@ Structure:
 * [**/IAD**](./IAD) - Intelligent Data Analysis course and Machine Learning
 * [**/DataBase**](./DataBase) - course on the study of database structures and SQL queries
 * [**/Java**](./Java) - java course
-* [**/Linux**](./Linux) - operating systems on the example of Linux + Bash
+* [**/LinuxOS**](./LinuxOS) - operating systems on the example of Linux + Bash
