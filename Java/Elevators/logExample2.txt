@@ -1,0 +1,635 @@
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=-335939470, floorStart=3, floorEnd=5, inElevator=false}
+to
+Elevator{curFloor=0, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=-2039975921, floorStart=0, floorEnd=5, inElevator=false}
+to
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=1, TakenQ's=0}
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+*ElevatorSystem*:
+PersonQuery{id=2046953420, floorStart=5, floorEnd=3, inElevator=false}
+to
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=1, TakenQ's=1}
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=5, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+*ElevatorSystem*:
+PersonQuery{id=1694148110, floorStart=1, floorEnd=0, inElevator=false}
+to
+Elevator{curFloor=4, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=1, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=0, targetFloor=1, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=-1135884977, floorStart=3, floorEnd=5, inElevator=false}
+to
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=1, TakenQ's=0}
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=0, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=-1012517972, floorStart=2, floorEnd=4, inElevator=false}
+to
+Elevator{curFloor=0, curCapacity=0, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=-991028867, floorStart=1, floorEnd=4, inElevator=false}
+to
+Elevator{curFloor=0, curCapacity=0, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=0, curCapacity=0, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=1, curCapacity=1, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+*ElevatorSystem*:
+PersonQuery{id=149223091, floorStart=0, floorEnd=5, inElevator=false}
+to
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=5, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=1579365837, floorStart=3, floorEnd=2, inElevator=false}
+to
+Elevator{curFloor=3, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=2}
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=2}
+Elevator{curFloor=5, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=2}
+Elevator{curFloor=5, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+*ElevatorSystem*:
+PersonQuery{id=1334774178, floorStart=3, floorEnd=4, inElevator=false}
+to
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+
+*QueryGenerator Terminated*
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=3, isTargeted=true, isMoving=true, OpenQ's=2, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=4, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=3, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=3, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=2, targetFloor=2, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=2}
+Elevator{curFloor=3, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=3, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=2, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=2, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=2, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=2, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=2, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=1, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=1, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=3, curCapacity=1, targetFloor=4, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+Elevator{curFloor=1, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=0, targetFloor=0, isTargeted=true, isMoving=true, OpenQ's=1, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=0, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=1, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=2, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=3, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=4, curCapacity=1, targetFloor=5, isTargeted=true, isMoving=true, OpenQ's=0, TakenQ's=1}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+
+
+ElevatorSystem:
+Elevator{curFloor=4, curCapacity=0, targetFloor=4, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
+Elevator{curFloor=5, curCapacity=0, targetFloor=5, isTargeted=false, isMoving=false, OpenQ's=0, TakenQ's=0}
