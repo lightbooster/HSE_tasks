@@ -169,7 +169,6 @@ public class Elevator implements Runnable{
                 candidates.add(index);
             }
         }
-//        System.out.println("candidates for DropOff: " + candidates);
         removeTakenQuery((Integer[]) candidates.toArray(new Integer[0]));
 
     }
@@ -246,4 +245,3 @@ public class Elevator implements Runnable{
     }
 
 }
-

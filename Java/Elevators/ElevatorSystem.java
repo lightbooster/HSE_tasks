@@ -10,7 +10,6 @@ public class ElevatorSystem implements Runnable{
     private final int maxElevatorCapacity;
     private final long systemSpeed;
 
-//    private Vector<PersonQuery> allQueries;
     private final Elevator[] elevators;
     private final Thread[] elevatorThreads;
 
@@ -19,7 +18,6 @@ public class ElevatorSystem implements Runnable{
         this.maxFloor = maxFloor;
         this.maxElevatorCapacity = maxElevatorCapacity;
         this.systemSpeed = systemSpeed;
-//        allQueries = new Vector<>(10);
         elevators = new Elevator[elevatorsNum];
         elevatorThreads = new Thread[elevatorsNum];
         for (int i = 0; i < elevatorsNum; i++){
@@ -90,7 +88,7 @@ public class ElevatorSystem implements Runnable{
         StringBuilder message = new StringBuilder();
         message.append("ElevatorSystem:\n");
         for (Elevator el : elevators){
-            message.append(el.toString());
+            message.append(el.toString() + '\n');
         }
         return message.toString();
     }
@@ -101,7 +99,8 @@ public class ElevatorSystem implements Runnable{
             try {
                 Thread.sleep(500);
             } catch (InterruptedException e) {
-
+                System.out.print("*ERROR*: " + e.getMessage());
+                continue;
             }
             System.out.println(this);
             System.out.println("");

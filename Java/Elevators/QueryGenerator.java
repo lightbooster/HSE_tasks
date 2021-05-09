@@ -1,11 +1,11 @@
 import java.util.concurrent.ThreadLocalRandom;
 
 public class QueryGenerator implements Runnable{
-    private ElevatorSystem system;
-    private int maxFloor;
-    private int maxQueriesNum;
-    private long maxTime;
-    private long minTime;
+    private final ElevatorSystem system;
+    private final int maxFloor;
+    private final int maxQueriesNum;
+    private final long maxTime;
+    private final long minTime;
 
     public QueryGenerator(ElevatorSystem system, long maxTime, long minTime, int maxQueriesNum){
         this.system = system;
